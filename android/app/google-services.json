@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "296349278554",
+    "project_id": "auth-8b5c6",
+    "storage_bucket": "auth-8b5c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296349278554:android:fb4ed4d109de616fa99363",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbJr9xv_KhNzYnpgsv0rOIpj-nHw5SRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296349278554:android:3694e48b6dbffe2ba99363",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbJr9xv_KhNzYnpgsv0rOIpj-nHw5SRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
